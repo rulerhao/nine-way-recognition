@@ -4,4 +4,4 @@
 # it's a file that already be pretrained.
 
 # The transfer learning's training part in here(https://drive.google.com/file/d/16wkeEcCJBp3f0ttXrFn-R7UUUkq1fQCV/view?usp=sharing)
-# you can know the traing progress and modify the database at here
+# you need to download the database from here and move to the folder call "traing part".
